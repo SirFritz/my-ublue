@@ -29,6 +29,8 @@ modules:
       - micro
       - zsh
       - trash-cli
+      - cargo
+      - cockpit
       # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
